@@ -1,3 +1,4 @@
+
 # Task Manager Backend API
 
 This backend API is built for the Fetan Systems Backend Internship project. It allows users to register, login, and manage tasks (create, read, update, delete) with authentication using JWT tokens.
@@ -87,3 +88,6 @@ DELETE /api/tasks/:id — Delete task by ID
 
 License
 This project is for internship submission and educational purposes.
+=======
+# task-management-backend
+>>>>>>> 6fa4407f80d0ddd8b95da7a7a31fea787c8a9e79
